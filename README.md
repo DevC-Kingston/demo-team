@@ -8,15 +8,17 @@ https://devpost.com/software/rewise-ai-powered-revision-bot)
 ## Inspiration
 * Add your Team’s Inspiration for the Chatbot
 * What it does
-List your Chatbot’s features and use cases
+
+
+## List your Chatbot’s features and use cases
 1. 1
 1. 2
 
 
 ## How I built it
-Tech Stack & Documentation
-1. 1
-1. 2
+Tech Stack & Documentation:
+* 1
+* 2
 
 
 ## Challenges I ran into
@@ -25,12 +27,12 @@ Tech Stack & Documentation
  
  
 ## Accomplishments that I'm proud of
-1. Accomplishment 1
-1. Accomplishment 2
+* Accomplishment 1
+* Accomplishment 2
 
 ## What I learned
-1. Learning 1
-1. Learning 2
+* Learning 1
+* Learning 2
 
 
 ## What's next for “Insert Your Bot Name”
