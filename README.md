@@ -6,8 +6,11 @@ https://devpost.com/software/rewise-ai-powered-revision-bot)
 **Team Members**: Member 1, Member 2, Member 3, Member 4, Member 5
 
 ## Inspiration
-* Add your Team’s Inspiration for the Chatbot
-* What it does
+Add your Team’s Inspiration for the Chatbot
+
+
+## What it does
+Add a short description
 
 
 ## List your Chatbot’s features and use cases
@@ -15,22 +18,23 @@ https://devpost.com/software/rewise-ai-powered-revision-bot)
 1. 2
 
 
-## How I built it
+## How we built it
 Tech Stack & Documentation:
 * 1
 * 2
 
 
-## Challenges I ran into
+## Challenges we ran into
 1. Challenge 1
 1. Challenge 2
  
  
-## Accomplishments that I'm proud of
+## Accomplishments that we're proud of
 * Accomplishment 1
 * Accomplishment 2
 
-## What I learned
+
+## What we learned
 * Learning 1
 * Learning 2
 
