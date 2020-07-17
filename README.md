@@ -1,39 +1,51 @@
-## Welcome to Caribbean Technology Bootcamp
+# Demo Team
 
-This is a test repo to demonstrate GitHub Pages.
+[//]: <> (Please use this Winning Hackathon Application as an example:
+https://devpost.com/software/rewise-ai-powered-revision-bot)
 
-You can use the [editor on GitHub](https://github.com/DevC-Kingston/test-team/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Team Members**: Member 1, Member 2, Member 3, Member 4, Member 5
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Inspiration
+* Add your Team’s Inspiration for the Chatbot
+* What it does
+List your Chatbot’s features and use cases
+1. 1
+1. 2
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## How I built it
+Tech Stack & Documentation
+1. 1
+1. 2
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Challenges I ran into
+1. Challenge 1
+1. Challenge 2
+ 
+ 
+## Accomplishments that I'm proud of
+1. Accomplishment 1
+1. Accomplishment 2
 
-- Bulleted
-- List
+## What I learned
+1. Learning 1
+1. Learning 2
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## What's next for “Insert Your Bot Name”
+Product Roadmap - next features for example
+1. Feature 1
+1. Feature 2
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Built With - provide the tech stack used (See Example)
+* facebook-messenger
+* flask
+* node.js
+* quillionz
+* tesseract
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DevC-Kingston/test-team/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Try it out
+[Add link to Public GitHub Page](link) </br>
+[Add link to GitHub Page](link)
