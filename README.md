@@ -1,4 +1,4 @@
-# Demo Team
+# Your Chatbot's Name
 
 [//]: <> (Please use this Winning Hackathon Application as an example:
 https://devpost.com/software/rewise-ai-powered-revision-bot)
@@ -45,12 +45,10 @@ Product Roadmap - next features for example
 1. Feature 2
 
 
-## Built With - provide the tech stack used (See Example)
-* facebook-messenger
-* flask
-* node.js
-* quillionz
-* tesseract
+## Built With - provide the tech stack used 
+* example1
+* example2
+
 
 ## Try it out
 [Add link to Public GitHub Page](link) </br>
